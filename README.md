@@ -1,7 +1,7 @@
 In this python project, KMeans clustering is used for compressing a given image. DIfferent values of K can be used like 2,5,10,15,20. Till it reaches value of K=20, the picture almost looks like the original image. In this way, the size of the image is reduced and also the compressed image looks almost like the original image.
 
 To compile and run
-python3 assignment3.py <image path> <K> <number of iterations>
+python3 kMeans_compression.py <image path> <K> <number of iterations>
 
 Arguments
 1)  image path --> The path to the image Eg. 'images/Koala.jpg'
