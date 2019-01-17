@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Assignment3.py
+"""
 
 Author : Diksha Chhabra
 Date:11/10/2018
